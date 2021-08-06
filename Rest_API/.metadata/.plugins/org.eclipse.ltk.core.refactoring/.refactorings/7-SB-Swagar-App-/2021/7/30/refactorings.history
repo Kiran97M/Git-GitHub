@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SwaggerConfig.java&apos; to &apos;4-SB-IRCTC-App--2/src/main/java/in.ashokit.config&apos;&#x0D;&#x0A;- Original project: &apos;7-SB-Swagar-App-&apos;&#x0D;&#x0A;- Destination element: &apos;4-SB-IRCTC-App--2/src/main/java/in.ashokit.config&apos;&#x0D;&#x0A;- Original element: &apos;in.ashokit.rest.SwaggerConfig.java&apos;" description="Copy compilation unit" destination="=4-SB-IRCTC-App--2/src\/main\/java&lt;in.ashokit.config" element1="/src\/main\/java&lt;in.ashokit.rest{SwaggerConfig.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1627004139134" units="1" version="1.0"/>
+</session>

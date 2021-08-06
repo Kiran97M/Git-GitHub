@@ -1,0 +1,7 @@
+package in.ashokit.service;
+
+
+@TicketService
+public class Service {
+
+}

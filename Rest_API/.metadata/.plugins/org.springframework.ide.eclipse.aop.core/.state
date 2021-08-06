@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="2-SB-Rest-Customer-App"/>
+<aop-project name="7-SB-RS-Quote-Client-App-2"/>
+<aop-project name="4-SB-IRCTC-App--2"/>
+<aop-project name="7-SB-Swagar-App-"/>
+<aop-project name="8-SB-RS-United-Flight-App-4"/>
+<aop-project name="3-SB-Rest-QueryParam-App-"/>
+<aop-project name="9-SB-RS-MakeMyTrip-App"/>
+<aop-project name="4-SB-Rest-PathParamApp--1"/>
+<aop-project name="6-SB-PutMapping-App---1"/>
+<aop-project name="7-SB-RS-Quote-Client-App-"/>
+<aop-project name="6-SB-PutMapping-App--"/>
+<aop-project name="5-SB-Rest-PostRequestApp"/>
+<aop-project name="Rest-App-1"/>
+</aop-reference-model>
